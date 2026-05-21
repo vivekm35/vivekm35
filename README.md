@@ -28,8 +28,8 @@ Currently seeking entry-level DevOps / Cloud Engineer / SRE roles in the US.
 | Project | Stack | Status |
 |---------|-------|--------|
 | [Flask CI/CD Pipeline on AWS](https://github.com/vivekm35/flask-cicd-app) | GitHub Actions · Docker · AWS EC2 | ✅ Live |
-| Kubernetes on AWS EKS | EKS · kubectl · Docker · AWS | 🔨 In progress |
-| Monitoring with Prometheus + Grafana | Prometheus · Grafana · Kubernetes | 🔨 Coming soon |
+| Kubernetes on AWS EKS | EKS · kubectl · Docker · AWS | ✅ Live  |
+| Monitoring with Prometheus + Grafana | Prometheus · Grafana · Kubernetes | ✅ Live  |
 
 ---
 
